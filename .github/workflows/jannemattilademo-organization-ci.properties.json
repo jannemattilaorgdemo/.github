@@ -1,0 +1,13 @@
+{
+    "name": "Janne Mattila Demo Organization Workflow",
+    "description": "Janne Mattila Demo CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        ".NET"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
